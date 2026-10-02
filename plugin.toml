@@ -1,0 +1,6 @@
+[plugin]
+summary = 'MCP Hub'
+version = '1.0.0'
+description = 'MCP 服务目录、工具申请授权与范围隔离 Key 管理'
+author = 'David'
+tags = ['mcp', 'auth']
